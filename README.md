@@ -1,5 +1,19 @@
 ### Hi there 👋, its me.
 
+<!-- Actual text -->
+
+You can find me on also on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://de.linkedin.com/in/jakob-erpf-59b44087
+
 <!--
 **jakoberpf/jakoberpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
