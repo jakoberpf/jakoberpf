@@ -1,8 +1,9 @@
 ### Hi there 👋, its me.
 
-<!-- Actual text -->
 
-You can find me on also on [![LinkedIn][1.1]][1].
+## About Me
+
+You can find me also on [![LinkedIn][1.1]][1].
 
 <!-- Icons -->
 
@@ -11,21 +12,6 @@ You can find me on also on [![LinkedIn][1.1]][1].
 <!-- Links to your social media accounts -->
 
 [1]: https://de.linkedin.com/in/jakob-erpf-59b44087
-
-<!--
-**jakoberpf/jakoberpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
