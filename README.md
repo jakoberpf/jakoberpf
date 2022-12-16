@@ -1,5 +1,6 @@
-### Hi there 👋, its me.
+### Hi there 👋, its me,
 
+an open minded and creative Engineer with a Master of Science degree (TUM) focused in Environmental Technologies, Traffic Engineering and Software Development from the Technical University Munich. I am also an experienced Digital (Video/Photo) Artist with a demonstrated history of working in the marketing and advertising industry. Besides my educational knowledge in Engineering and Software Development, I earned practical skills during my full time jobs in engineering and it, as well as freelancing for the MEL-Lop AG and other projects. Since 2020 full-time Cloud DevOps, Software Engineer and Architect, becoming a cloud-native citizen.
 
 ## About Me
 
