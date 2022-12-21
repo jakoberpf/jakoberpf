@@ -1,20 +1,23 @@
-### Hi there 👋, its me,
+### Hi there 👋, its me
 
-an open minded and creative Engineer with a Master of Science degree (TUM) focused in Environmental Technologies, Traffic Engineering and Software Development from the Technical University Munich. I am also an experienced Digital (Video/Photo) Artist with a demonstrated history of working in the marketing and advertising industry. Besides my educational knowledge in Engineering and Software Development, I earned practical skills during my full time jobs in engineering and it, as well as freelancing for the MEL-Lop AG and other projects. Since 2020 full-time Cloud DevOps, Software Engineer and Architect, becoming a cloud-native citizen.
+an open minded and creative Engineer with a Master of Science degree (TUM) focused in Environmental Technologies, Traffic Engineering and Software Development from the Technical University Munich. I am also an experienced Digital (Video/Photo) Artist with a demonstrated history of working in the marketing and advertising industry.
+
+Besides my educational knowledge in Traffic Engineering and Software Development, I build my practical skills during my full time jobs in the R&D, as well as freelancing projects.
+
+Since 2020 full-time Cloud DevOps, Software Engineer and Architect, becoming a cloud-native citizen.
 
 ## About Me
 
-You can find me also on [![LinkedIn][1.1]][1].
+You can find my w most of my open-source work here on Github and on my [Website](https://jakoberpf.de). But you also find be on ...
 
-<!-- Icons -->
-
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://de.linkedin.com/in/jakob-erpf-59b44087
+- [LinkedIn](https://de.linkedin.com/in/jakob-boghdady)
+- [UpWork](https://www.upwork.com/freelancers/~019e5ae4e8f4fb9220) - [Fiverr](https://de.fiverr.com/jakoberpf)
+- TopTal (soon)
+- Facebook (deprecated)
+- Instagram (deprecated)
 
 ## 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
