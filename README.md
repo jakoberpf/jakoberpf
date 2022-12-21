@@ -11,7 +11,8 @@ Since 2020 full-time Cloud DevOps, Software Engineer and Architect, becoming a c
 You can find my w most of my open-source work here on Github and on my [Website](https://jakoberpf.de). But you also find be on ...
 
 - [LinkedIn](https://de.linkedin.com/in/jakob-boghdady)
-- [UpWork](https://www.upwork.com/freelancers/~019e5ae4e8f4fb9220) - [Fiverr](https://de.fiverr.com/jakoberpf)
+- [UpWork](https://www.upwork.com/freelancers/~019e5ae4e8f4fb9220)
+- [Fiverr](https://de.fiverr.com/jakoberpf)
 - TopTal (soon)
 - Facebook (deprecated)
 - Instagram (deprecated)
